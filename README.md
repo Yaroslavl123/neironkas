@@ -1,7 +1,7 @@
 # neironka по нахождению заполненных мусорных баков
 1. Установка зависимостей
 ```bash
-foo@bar:~$ pip install requirements.txt
+foo@bar:~$ pip install libs.txt
 ```
 2. Запуск
 ```bash
